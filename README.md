@@ -4,6 +4,8 @@
 
 [Contribute documentation](https://docs.microsoft.com/contribute/)
 
+[Contributing to Github docs](https://github.com/github/docs/blob/main/CONTRIBUTING.md)
+
 ## How to
 
 [VS Code extensions](https://marketplace.visualstudio.com/items?itemName=docsmsft.docs-authoring-pack)
