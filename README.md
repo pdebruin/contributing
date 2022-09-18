@@ -2,7 +2,7 @@
 
 ## Introduction
 
-[Contribute documentation](https://docs.microsoft.com/contribute/)
+[Contribute documentation](https://learn.microsoft.com/contribute/)
 
 [Contributing to Github docs](https://github.com/github/docs/blob/main/CONTRIBUTING.md)
 
